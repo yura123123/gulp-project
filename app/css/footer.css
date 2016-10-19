@@ -1,0 +1,50 @@
+	.robo-bold{
+   		font-family: Roboto-Bold;
+   		src: url(roboto/Roboto-Bold.ttf);
+   	}
+
+   	.gta{
+		padding-top: 4%;
+		width: 100%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.gota{
+		padding-top: 6%;
+		width: 100%;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	.face-align{
+		text-align: right;
+	}
+
+	.face-pdn{
+		padding-right: 6%;
+	}
+
+	.face-align{
+		text-align: right;
+	}
+
+	.bigtext{
+		font-size: 20px;
+		color: white;
+    }
+
+    .footer{
+		background-color: #141414;
+		height: 260px;
+		width: 100%;
+	}
+
+	.foot-sit{
+		margin-top: 6%;
+	}
+
+/*	.footer-jw{
+		text-align: center;
+		margin-left: 8px;
+	}*/

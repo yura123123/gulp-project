@@ -1,0 +1,27 @@
+	.robo-bold{
+   		font-family: Roboto-Bold;
+   	}
+
+   	.bodtxt{
+		color: #b7b7b7;
+	   	font-family: Roboto-Light;
+    	src: url(roboto/Roboto-Light.ttf);
+	}
+
+	.wcw{
+		font-size: 40px;
+		padding-top: 4%;
+	}
+
+	.wcw1{
+		padding-top: 10%;
+	}
+
+	.consectetur{
+		padding-top: 7%;
+		padding-bottom: 5%;
+	}
+
+	.consectetur-left{
+		margin-right: 3%;
+	}

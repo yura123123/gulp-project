@@ -1,0 +1,96 @@
+/*    .header{
+    	background-image: url(images/workbackground.jpg);
+    	width: 100%;
+    	height: 500px;
+    	background-repeat: no-repeat;
+    	color: white;
+    }*/
+
+    .bigtext{
+		font-size: 20px;
+		color: white;
+    }
+
+    .jewelery-menu{
+    	padding-top: 6px;
+    }
+
+    .twitter2{
+		padding-right: 8%;
+	}
+
+	.twitter3{
+		padding-right: 4%;
+	}
+
+	.danger-div-1{
+		
+		padding-top: 1.5%;
+		border-radius: 3px;
+		width: 150px;
+		height: 50px;
+		border: solid;
+		border-width: 2px;
+		border-color: red;
+		background-color: red;
+		color: white;
+		text-align: center;
+		margin-right: 5%;
+	}
+
+	.decoration-div{
+		border-radius: 3px;
+		width: 170px;
+		height: 50px;
+		border: solid;
+		border-width: 2px;
+		border-color: white;
+		color: white;
+		text-align: center;
+		padding-top: 1.5%;
+	}
+
+	.dsplinl{
+		display: inline-block;
+	}
+
+	.robo-bold{
+   		font-family: Roboto-Bold;
+   		src: url(roboto/Roboto-Bold.ttf);
+   	}
+
+	.crtreal{
+		color: #b7b7b7;
+		font-size: 20px;
+		padding-top: 14%;
+	}
+
+	.wud{
+		color: white;
+		font-size: 55px;
+	}
+
+	a{
+		color: white;
+		text-decoration: none;
+	}
+
+	a:hover{
+		color: white;
+		text-decoration: none;
+	}
+
+	a:link{	
+		color: white;
+		text-decoration: none;
+	}
+
+	a:visited{	
+		color: grey;
+		text-decoration: none;
+	}
+
+	a:active{
+		color: grey;
+		text-decoration: none;
+	}

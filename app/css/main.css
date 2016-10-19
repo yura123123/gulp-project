@@ -1,0 +1,67 @@
+  @font-face {   
+    	font-family: Roboto-Bold;
+    	src: url(roboto/Roboto-Bold.ttf);
+   	}
+
+   	@font-face {   
+    	font-family: Roboto-Light;
+    	src: url(roboto/Roboto-Light.ttf);
+   	}
+
+	.header{
+    	background-image: url(images/workbackground.jpg);
+    	width: 100%;
+    	height: 650px;
+    	background-repeat: no-repeat;
+    	color: white;
+    }
+
+    .robo-bold{
+   		font-family: Roboto-Bold;
+   		src: url(roboto/Roboto-Bold.ttf);
+   	}
+
+   	.bdtxt{
+		color: #b7b7b7;
+		padding-top: 3%;
+		font-family: Roboto-Light;
+    	src: url(roboto/Roboto-Light.ttf);
+	}
+
+	.home-pad{
+		padding-top: 5%;
+		color: #b7b7b7;
+		font-family: Roboto-Light;
+    	src: url(roboto/Roboto-Light.ttf);
+	}
+
+	.bodtxt{
+		color: #b7b7b7;
+	   	font-family: Roboto-Light;
+    	src: url(roboto/Roboto-Light.ttf);
+	}
+
+  a{
+    color: white;
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: white;
+    text-decoration: none;
+  }
+
+  a:link{ 
+    color: white;
+    text-decoration: none;
+  }
+
+  a:visited{  
+    color: grey;
+    text-decoration: none;
+  }
+
+  a:active{
+    color: grey;
+    text-decoration: none;
+  }

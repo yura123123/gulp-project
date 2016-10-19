@@ -1,0 +1,35 @@
+	.robo-bold{
+   		font-family: Roboto-Bold;
+   	}
+
+	.howdiw-howdiw{
+		margin-top: 7%;
+		margin-bottom: 4%;
+	}
+
+	.howdiw{
+		text-align: center;
+	}
+
+	.bodtxt{
+		color: #b7b7b7;
+	}
+
+	.homes{
+		padding-top: 10%;
+	}
+
+	.home-pdn{
+		padding-top: 10%;
+		color: #464646;
+
+	}
+
+	.home-pad{
+		padding-top: 5%;
+		color: #b7b7b7;
+		font-family: Roboto-Light;
+    	src: url(roboto/Roboto-Light.ttf);
+	}
+
+	

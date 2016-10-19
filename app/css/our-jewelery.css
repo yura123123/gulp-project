@@ -1,0 +1,32 @@
+	.robo-bold{
+   		font-family: Roboto-Bold;
+   		src: url(roboto/Roboto-Bold.ttf);
+   	}
+
+   	.bdtxt{
+		color: #b7b7b7;
+		padding-top: 3%;
+		font-family: Roboto-Light;
+    	src: url(roboto/Roboto-Light.ttf);
+	}
+
+	.dragons{
+		width: 100%;
+	}
+
+	.imagine-dragons{
+		width: 57%;
+	}
+
+	.imagine-waves{
+		padding-top: 5.4%;
+		padding-left: 5%
+	}
+
+	.gallery-row{
+    	margin: 0;
+    }
+
+    .gallery-row > .col-sm-3{
+    	padding: 0;
+ 	}

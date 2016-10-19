@@ -1,0 +1,33 @@
+	.robo-bold{
+   		font-family: Roboto-Bold;
+   		src: url(roboto/Roboto-Bold.ttf);
+   	}
+
+   	.bdtxt{
+		color: #b7b7b7;
+		padding-top: 3%;
+		font-family: Roboto-Light;
+    	src: url(roboto/Roboto-Light.ttf);
+	}
+
+	.dragons{
+		width: 100%;
+	}
+
+	.photoblog{
+		width: 57%;
+		margin-top: 5%;
+		margin-bottom: 5%;
+	}
+	
+	.our-photoblog{
+		padding-top: 3%;	
+	}
+
+	.gallery-row{
+    	margin: 0;
+    }
+
+    .gallery-row > .col-sm-3{
+    	padding: 0;
+ 	}
